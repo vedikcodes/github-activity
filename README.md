@@ -22,7 +22,7 @@ A simple and lightweight command-line interface (CLI) tool built in **Go** that 
 
 ## 🛠️ Installation
 
-##project URL
+##project Reference
 https://roadmap.sh/projects/github-user-activity
 
 ### Clone the repository
