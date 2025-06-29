@@ -22,8 +22,13 @@ A simple and lightweight command-line interface (CLI) tool built in **Go** that 
 
 ## 🛠️ Installation
 
+##project URL
+https://roadmap.sh/projects/github-user-activity
+
 ### Clone the repository
 
 ```bash
 git clone https://github.com/vedikcodes/github-activity.git
 cd github-activity
+
+
